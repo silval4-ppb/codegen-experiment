@@ -1,0 +1,6 @@
+type Flower {
+    id: ID!
+    name: String
+    color: Color
+    smell: Smell
+}
